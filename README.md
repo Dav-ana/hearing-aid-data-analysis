@@ -7,7 +7,7 @@ This project forecasts the potential *future demand for hearing aids* among adul
 The aim is to demonstrate how data analysis can be used for decision-making and service planning in healthcare, especially in the context of an ageing popualtion. Additionally showcasing practical data analysis skills including public data interpretation, forecasting, and communication of health-related insights
 
 ---
-## Key Objectives 
+## 🎯 Key Objectives 
 
 - Estimate how many UK adult may experience hearing loss by 2030.
 - Calculate potential hearing aid demand using adoption rates.
@@ -15,7 +15,7 @@ The aim is to demonstrate how data analysis can be used for decision-making and 
 - Practice data analytics skills with a real-world healthcare example.
   
 ---
-## Data Sources
+## 📁 Data Sources
 
 - **ONS 2030 Population Projections**  
   Source: [Office for National Statistics](https://www.ons.gov.uk)
@@ -29,9 +29,52 @@ The aim is to demonstrate how data analysis can be used for decision-making and 
 For full details, see `DATA_SOURCES.md`.
 
 ---
-## Tools Uses 
+## 🛠 Tools Used 
 - Microsoft Excel
   (Used for data cleaning, calculations, charting)
+
+---
+
+## ⚙️ Methodology
+
+1. **Data Sourcing**  
+   - Used ONS projections for 2030 adult population by age group.
+   - Applied hearing loss prevalence estimates to each age group.
+
+2. **Uptake Estimation**  
+   - Applied estimated hearing aid uptake rates by age group.
+   - Calculated expected number of hearing aid users in 2030.
+
+3. **Visualisation**  
+   - Created bar and stacked bar charts to show demand patterns.
+
+---
+
+## 🧠 Key Assumptions 
+
+- Prevalence and uptake rates remain stable over the coming years.
+- Age is the primary risk factor for hearing loss.
+- Hearing aid uptake reflects current UK trends.
+
+---
+
+## 🔍 Key Findings 
+
+
+---
+
+## 🧾 Project Outcome
+
+
+---
+
+## 👩‍💻 Author 
+**Davina**
+Aspiring Data anylyst | Background in Audiology | Portfolio Project 2025
+
+---
+## Next Steps
+
   
 
   
